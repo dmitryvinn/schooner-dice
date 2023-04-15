@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.dvinnik.SchoonerDiceApiScoreTest" tests="47" skipped="0" failures="0" errors="0" timestamp="2023-04-15T21:03:15" hostname="dvinnik-mbp" time="0.039">
+  <properties/>
+  <testcase name="testScoreForSchoonerCategoryWithAllDifferentValues()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.01"/>
+  <testcase name="testScoreForSixesCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForFivesCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForFoursCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForLargeStraightCategoryWithSingleOrderedOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForTwosCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFoursCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFourOfKindCategoryWithSingleOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.003"/>
+  <testcase name="testScoreForFullHouseCategoryWithSingleOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForFivesCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForOnesCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForThreeOfKindCategoryWithNoOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSmallStraightCategoryWithSingleOrderedOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForThreesCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSmallStraightCategoryWithNoOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFivesCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForTwosCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForThreesCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForChanceCategoryWithNoDuplicates()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForTwosCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForChanceCategoryWithDuplicates()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForThreesCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForEightsCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFullHouseCategoryWithFourDuplicateOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForSixesCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForLargeStraightCategoryWithNoOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSevensCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFullHouseCategoryWithNoOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForLargeStraightCategoryWithSingleUnorderedOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSchoonerCategoryWithAllDuplicatesButOne()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForEightsCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFourOfKindCategoryWithNoOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSmallStraightCategoryWithSingleUnorderedOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForAllDifferentCategoryWithNoDuplicates()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForOnesCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForAllDifferentCategoryWithSingleDuplicate()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForSmallStraightCategoryWithSingleOccurrenceAndDuplicates()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForEightsCategoryWithSeveralOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSevensCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForOnesCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForThreeOfKindCategoryWithSingleOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForAllDifferentCategoryWithAllDuplicates()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSevensCategoryWithNoOccurrences()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSmallStraightCategoryWithSingleOccurrenceAfterNonSequentialNumber()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForSchoonerCategoryWithAllDuplicates()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.001"/>
+  <testcase name="testScoreForSixesCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <testcase name="testScoreForFoursCategoryWithOneOccurrence()" classname="dev.dvinnik.SchoonerDiceApiScoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
